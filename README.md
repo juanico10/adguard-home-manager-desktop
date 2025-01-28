@@ -36,6 +36,10 @@ Check the privacy policy [here](https://github.com/JGeek00/adguard-home-manager/
 ## Disclaimer
 This is an unofficial application. The AdGuard Home team and the development of the AdGuard Home software is not related in any way with this application.
 
-<br>
+## Project Information
 
-##### Applications created by Juanico10.
+Official website and code repository: [adguard-home-manager by JGeek00](https://github.com/JGeek00/adguard-home-manager)
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p><sup>This website is not affiliated, endorsed, or associated in any way with the trademarks mentioned on this site.
+All trademarks, logos, and brand names are the property of their respective owners. We use these references for informational purposes only.</sup></p>
