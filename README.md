@@ -30,6 +30,12 @@
 <p>▶ Full desktop support with builds for macOS, Linux and Windows.</p>
 <p>▶ Responsive UI adapted for landscape displays.</p>
 
+## Screenshot
+<p align="center">
+    <img src="/assets/screenshots/linux/home.png" width="100%">
+  </a>
+</p>
+
 ## Privacy policy
 Check the privacy policy [here](https://github.com/JGeek00/adguard-home-manager/wiki/Privacy-policy).
 
