@@ -43,3 +43,11 @@ build-deb: build-app
 	rps build linux
 	@echo "📦 Paquete .tar.gz listo en $(INFO)build/linux/x64/release/bundle/$(RESET)"
 	@echo "📦 Paquete .deb listo en $(INFO)build/linux/x64/release/debian/$(RESET)"
+
+help:
+	@echo "$(INFO)Comandos disponibles:$(RESET)"
+	@echo "$(INFO) * make build $(RESET) - Construye la aplicación para Linux"
+	@echo "$(INFO) * make clean $(RESET) - Limpia basura de flutter"
+	@echo "$(INFO) * make upgrade  $(RESET) - Actualiza dependencias de flutter del sistema"
+	@echo "$(INFO) * make update  $(RESET) - Actualiza dependencias de flutter de la aplicación"
+	@echo "$(INFO) * make pull  $(RESET) - Trae el repositorio de adguard"
